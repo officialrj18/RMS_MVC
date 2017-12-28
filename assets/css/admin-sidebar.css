@@ -1,0 +1,36 @@
+
+
+
+
+/*sidebar styling*/
+
+.nav-sidebar{
+	padding: 0;
+	height: 550px;
+	list-style: none;
+	
+}
+
+
+.nav-sidebar li{
+	text-index:20px;
+	
+}
+
+.nav-sidebar li a{
+	display: block;
+	text-decoration: none;
+	
+	}
+
+.nav-sidebar a:hover{
+	background: #16A085;
+	
+}
+
+
+
+
+
+
+
